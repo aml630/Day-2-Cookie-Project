@@ -1,0 +1,17 @@
+h1 {
+  text-align: center;
+  color: blue;
+}
+
+img {
+  height: 300px;
+}
+
+header {
+  text-align: center;
+}
+
+.bottomborder {
+  border-bottom: 1px solid #000;
+  text-align: center;
+}
